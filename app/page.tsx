@@ -20,7 +20,7 @@ export default function Home() {
           href="mailto:victor.ogunjobi@torontomu.ca"
           className="block text-center text-sky-400 mt-4"
         >
-          Click here to me a mail - victor.ogunjobi@torontomu.ca
+          Send me an email - victor.ogunjobi@torontomu.ca
         </a>
       </div>
     </main>
